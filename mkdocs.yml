@@ -48,6 +48,9 @@ plugins:
   - roamlinks 
   - mermaid2
 
+extra_css:
+  - stylesheets/styles.css
+
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
