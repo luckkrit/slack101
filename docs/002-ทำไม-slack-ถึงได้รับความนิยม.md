@@ -25,4 +25,4 @@
 - การประชุมผ่าน [Zoom](https://zoom.us)
 ![การประชุมผ่าน Zoom](https://www.blognone.com/sites/default/files/externals/97ce6441c8fb2c9cd3fd80c654c27f6c.jpg)
 
->หน้าตาการประชุมผ่าน Slack
+>หน้าตาการประชุมผ่าน [Slack Huddles](https://slack.com/help/articles/4402059015315-Use-huddles-in-Slack)

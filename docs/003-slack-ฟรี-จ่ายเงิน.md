@@ -6,5 +6,5 @@
 - เชื่อมต่อกับ Applications ได้ 10 Applications
 
 !!! note
-    [สามารถอ่านเพิ่มเติมได้จาก](https://slack.com/pricing/paid-vs-free)
+    [ความแตกต่างระหว่างฟรีกับจ่ายเงิน](https://slack.com/pricing/paid-vs-free)
 
