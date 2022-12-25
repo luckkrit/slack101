@@ -9,5 +9,6 @@
  [สามารถอ่านเพิ่มเติมได้จาก](https://slack.com/pricing/paid-vs-free)
 ```
 
->[!INFO]
->astest
+!!! note
+[สามารถอ่านเพิ่มเติมได้จาก](https://slack.com/pricing/paid-vs-free)
+
