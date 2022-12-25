@@ -23,6 +23,7 @@
 - อีกทั้งยังสามารถเชื่อมกับ Application หลายๆตัวที่ได้รับความนิยมได้เช่น [Google Drive](https://drive.google.com) [Zoom](https://www.zoom.us) [Google Calendar](https://calendar.google.com)
 - การจัดการไฟล์จาก [Google Drive](https://drive.google.com)
 - การประชุมผ่าน [Zoom](https://zoom.us)
+
 ![การประชุมผ่าน Zoom](https://www.blognone.com/sites/default/files/externals/97ce6441c8fb2c9cd3fd80c654c27f6c.jpg){loading=lazy}
 
 >หน้าตาการประชุมผ่าน [Slack Huddles](https://slack.com/help/articles/4402059015315-Use-huddles-in-Slack)
