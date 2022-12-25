@@ -10,5 +10,5 @@
 ```
 
 !!! note
-[สามารถอ่านเพิ่มเติมได้จาก](https://slack.com/pricing/paid-vs-free)
+   [สามารถอ่านเพิ่มเติมได้จาก](https://slack.com/pricing/paid-vs-free)
 
