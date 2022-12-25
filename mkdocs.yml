@@ -24,6 +24,7 @@ theme:
 
 # Extensions
 markdown_extensions:
+  # Footnotes
   - footnotes
   # - attr_list
   - pymdownx.arithmatex:
@@ -31,9 +32,12 @@ markdown_extensions:
   # - pymdownx.superfences
   # - pymdownx.details
   # - pymdownx.magiclink
+  
+  # Lists
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
+  # Formatting
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
@@ -43,9 +47,21 @@ markdown_extensions:
   - toc:
       permalink: true
   
+  # Admonitions
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  # Data tables
+  - tables
+  # Icons, Emojis
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # Images
+  - attr_list
+  - md_in_html
+
 
 plugins:
   - search
