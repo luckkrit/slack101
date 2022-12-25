@@ -5,14 +5,6 @@
 - สามารถบันทึก VDO Call ได้
 - เชื่อมต่อกับ Applications ได้ 10 Applications
 
-```note
- [สามารถอ่านเพิ่มเติมได้จาก](https://slack.com/pricing/paid-vs-free)
-```
-
 !!! note
     [สามารถอ่านเพิ่มเติมได้จาก](https://slack.com/pricing/paid-vs-free)
 
-!!! note
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
