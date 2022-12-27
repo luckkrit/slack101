@@ -10,7 +10,7 @@
 
 โดย Obsidian เป็นเครื่องมือที่มีประโยชน์ในการทำบทความหรือ รวบรวมความคิดให้เป็นหมวดหมู่ได้ และ [Community Plugins](https://obsidian.md/plugins) ที่ใช้มีดังนี้
 
-- Advanced Tables 
+- [Advanced Tables](https://obsidian.md/plugins?id=table-editor-obsidian) 
 - Dataview
 - Emoji Toolbar 
 - Icon Folder 
