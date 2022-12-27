@@ -10,5 +10,12 @@
 
 โดย Obsidian เป็นเครื่องมือที่มีประโยชน์ในการทำบทความหรือ รวบรวมความคิดให้เป็นหมวดหมู่ได้ และ [Community Plugins](https://obsidian.md/plugins) ที่ใช้มีดังนี้
 
-![Obsidian Community Plugins](./images/obsidian-plugins.jpg)
+- Advanced Tables 
+- Dataview
+- Emoji Toolbar 
+- Icon Folder 
+- Obsidian Git 
+- Pandoc Plugin 
+- Paste URL into selection 
+- Recent Files 
 
