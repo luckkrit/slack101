@@ -11,11 +11,11 @@
 โดย Obsidian เป็นเครื่องมือที่มีประโยชน์ในการทำบทความหรือ รวบรวมความคิดให้เป็นหมวดหมู่ได้ และ [Community Plugins](https://obsidian.md/plugins) ที่ใช้มีดังนี้
 
 - [Advanced Tables](https://obsidian.md/plugins?id=table-editor-obsidian) 
-- Dataview
-- Emoji Toolbar 
-- Icon Folder 
-- Obsidian Git 
-- Pandoc Plugin 
-- Paste URL into selection 
-- Recent Files 
+- [Dataview](https://obsidian.md/plugins?id=dataview)
+- [Emoji Toolbar](https://obsidian.md/plugins?id=obsidian-emoji-toolbar) 
+- [Icon Folder](https://obsidian.md/plugins?id=obsidian-icon-folder) 
+- [Obsidian Git](https://obsidian.md/plugins?id=obsidian-git) 
+- [Pandoc Plugin](https://obsidian.md/plugins?id=obsidian-pandoc) 
+- [Paste URL into selection](https://obsidian.md/plugins?id=url-into-selection) 
+- [Recent Files](https://obsidian.md/plugins?id=recent-files-obsidian) 
 
