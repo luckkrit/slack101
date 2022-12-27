@@ -13,7 +13,7 @@ Slack จัดเป็นหนึ่งใน Productivity Tools ที่ช
 
 ## แนะนำ We need tool talk 
 
-We need tool talk เป็นอีก Playlist หนึ่งของช่อง [The Growth Master]() ซึ่งได้จัดทำเนื้อหาเกี่ยวกับ Productivity Tools ไว้อย่างน่าสนใจ 
+We need tool talk เป็นอีก Playlist หนึ่งของช่อง [The Growth Master](https://www.youtube.com/channel/UCmquinb6m_TpOzn5J_fCdFA)ซึ่งได้จัดทำเนื้อหาเกี่ยวกับ Productivity Tools ไว้อย่างน่าสนใจ 
 
 <div class="iframe-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_WsZmwr0Zk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
