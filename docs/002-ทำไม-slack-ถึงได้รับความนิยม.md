@@ -8,7 +8,7 @@
 
 ![การจัดรูปแบบข้อความ](https://www.blognone.com/sites/default/files/externals/acec83f595868a5fdd23a0f11a81a38c.png){loading=lazy}
 
-> หน้าตาการจัดรูปแบบข้อความ ภาพจาก [Blognone](https://www.blognone.com/node/115372)
+> หน้าตาการจัดรูปแบบข้อความ (ภาพจาก [Blognone](https://www.blognone.com/node/115372))
 
 - การทำห้วข้อสำรวจแบบง่ายๆ ซึ่งจากเดิมเราอาจจะต้องใช้ [Google Forms](https://forms.google.com) แต่ตัว Slack เองยังรองรับ Application ในตัว นั่นก็คือ [Simple Poll](https://slack.com/apps/A0HFW7MR6-simple-poll?tab=more_info) และ [Polly](https://slack.com/apps/A04E6JX41-polly?tab=more_info)
 
