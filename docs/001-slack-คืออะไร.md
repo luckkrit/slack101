@@ -9,7 +9,7 @@ Slack จัดเป็นหนึ่งใน Productivity Tools ที่ช
 <div class="iframe-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/6wjmH5qL3Ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 !!! note
-    นอกจาก Slack แล้วยังมี Application ที่คล้ายกันอีกอย่างคือ [Flock](https://www.flock.com) โดยมีการเปรียบเทียบไว้ดังนี้ [Flock VS. Slack](https://pumble.com/blog/slack-vs-flock/#:~:text=The%20only%20significant%20difference%20is,even%20in%20the%20free%20version.)
+    นอกจาก Slack แล้วยังมี Application ที่คล้ายกันอีกอย่างคือ [Flock](https://www.flock.com) โดยมีการเปรียบเทียบไว้ดังนี้ [Flock vs. Slack](https://pumble.com/blog/slack-vs-flock/)
 
 ## แนะนำ We need tool talk 
 
