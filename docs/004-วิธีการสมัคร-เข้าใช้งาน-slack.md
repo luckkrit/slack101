@@ -8,7 +8,7 @@
 
 ให้ไปที่ [https://slack.com/get-started#/createnew](https://slack.com/get-started#/createnew) 
 
-![การลงชื่อเข้าใช้งาน Slack](2022-12-28_08-35-07.png)
+![การลงชื่อเข้าใช้งาน Slack](2022-12-28_08-35-07.png){loading=lazy}
 
 >ภาพการลงชื่อเข้าใช้งาน Slack 
 

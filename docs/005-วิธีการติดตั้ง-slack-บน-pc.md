@@ -11,4 +11,4 @@
 
 - ไปที่ [Download](https://slack.com/downloads/windows) แล้วกดติดตั้งจะได้หน้าตาประมาณนี้
 
-![[2022-12-28_09-19-15.png]]
+![[2022-12-28_09-19-15.png]]{loading=lazy}
