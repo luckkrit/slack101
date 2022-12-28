@@ -7,7 +7,10 @@
 ความสามารถที่แตกต่างจากโปรแกรม Chat ทั่วๆไปอย่าง [Line](https://line.me/en/) นั่นก็คือ 
 
 - ### สามารถจัดรูปแบบข้อความ
-ที่พิมพ์ลงไปได้
+ที่พิมพ์ลงไปได้ ไม่ว่าจะเป็น ย่อหน้า ข้อความที่เป็นตัวหนา ตัวเอียง ตัวขีดฆ่า 
+หรือแม้กระทั่ง ทำ Bullet Point ก็ยังได้
+
+> In typography, a bullet or bullet point, •, is a typographical symbol or glyph used to introduce items in a list. For example: Point 1 Point 2 Point 3 The bullet symbol may take any of a variety of shapes, such as circular, square, diamond or arrow. [Wikipedia](https://en.wikipedia.org/wiki/Bullet_(typography))
 
 ![การจัดรูปแบบข้อความ](https://www.blognone.com/sites/default/files/externals/acec83f595868a5fdd23a0f11a81a38c.png){loading=lazy}
 
