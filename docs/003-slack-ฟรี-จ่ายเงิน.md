@@ -8,7 +8,3 @@
 ### ประชุมแบบ VDO Call ได้ แต่ได้แค่ 1 คน
 ### สามารถบันทึก VDO Call ได้
 ### เชื่อมต่อกับ Applications ได้ 10 Applications
-
-!!! note
-    [ความแตกต่างระหว่างฟรีกับจ่ายเงิน](https://slack.com/pricing/paid-vs-free)
-
