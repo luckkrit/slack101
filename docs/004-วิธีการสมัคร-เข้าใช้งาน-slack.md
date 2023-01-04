@@ -40,6 +40,3 @@
 ![เลือก Workspace](2023-01-04_08-01-23.png){loading=lazy}
 
 >เลือก Workspace
-
-
-## Channel คืออะไร
