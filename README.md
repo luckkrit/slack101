@@ -19,3 +19,6 @@
 - [Paste URL into selection](https://obsidian.md/plugins?id=url-into-selection) 
 - [Recent Files](https://obsidian.md/plugins?id=recent-files-obsidian) 
 
+## Contents
+
+สามารถอ่านได้จาก [[index|ที่นี่]]
