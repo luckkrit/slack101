@@ -6,7 +6,7 @@
 
 ความสามารถที่แตกต่างจากโปรแกรม Chat ทั่วๆไปอย่าง [Line](https://line.me/en/) นั่นก็คือ 
 
-- ### สามารถจัดรูปแบบข้อความ
+### สามารถจัดรูปแบบข้อความ
 ที่พิมพ์ลงไปได้ ไม่ว่าจะเป็น ย่อหน้า ข้อความที่เป็นตัวหนา ตัวเอียง ตัวขีดฆ่า 
 หรือแม้กระทั่ง ทำ Bullet Point ก็ยังได้
 
@@ -17,7 +17,7 @@
 
 > หน้าตาการจัดรูปแบบข้อความ (ภาพจาก [Blognone](https://www.blognone.com/node/115372))
 
-- ### การทำห้วข้อสำรวจแบบง่ายๆ 
+### การทำห้วข้อสำรวจแบบง่ายๆ 
 
 ซึ่งจากเดิมเราอาจจะต้องใช้ [Google Forms](https://forms.google.com) แต่ตัว Slack เองยังรองรับ Application ในตัว นั่นก็คือ [Simple Poll](https://slack.com/apps/A0HFW7MR6-simple-poll?tab=more_info) และ [Polly](https://slack.com/apps/A04E6JX41-polly?tab=more_info)
 
@@ -29,12 +29,12 @@
 
 > หน้าตาของ [Polly](https://slack.com/apps/A04E6JX41-polly?tab=more_info)
 
-- ### อีกทั้งยังสามารถเชื่อมกับ Application หลายๆตัว
+### อีกทั้งยังสามารถเชื่อมกับ Application หลายๆตัว
 
 ที่ได้รับความนิยมได้เช่น [Google Drive](https://drive.google.com) [Zoom](https://www.zoom.us) [Google Calendar](https://calendar.google.com)
 
-- ### การจัดการไฟล์จาก [Google Drive](https://drive.google.com)
-- ### การประชุมผ่าน [Zoom](https://zoom.us), [Google Meet](https://meet.google.com/?pli=1) หรือ [Microsoft Team](https://www.microsoft.com/th-th/microsoft-teams/group-chat-software)
+### การจัดการไฟล์จาก [Google Drive](https://drive.google.com)
+### การประชุมผ่าน [Zoom](https://zoom.us), [Google Meet](https://meet.google.com/?pli=1) หรือ [Microsoft Team](https://www.microsoft.com/th-th/microsoft-teams/group-chat-software)
 
 ![การประชุมผ่าน Zoom](https://www.blognone.com/sites/default/files/externals/97ce6441c8fb2c9cd3fd80c654c27f6c.jpg){loading=lazy}
 
