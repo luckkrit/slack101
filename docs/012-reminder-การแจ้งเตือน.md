@@ -38,10 +38,14 @@
 /remind list
 ```
 
-![reminder list](../images/2023-01-30_14-43-11.gif)
+![reminder list](../images/2023-01-30_14-43-11.gif){loading=lazy}
 
 ## การลบแจ้งเตือน
 
 สามารถทำได้โดยการกด `Delete` ดังตัวอย่างในคลิปด้านล่าง
 
-![การลบแจ้งเตือน](../images/2023-01-30_14-47-24.gif)
+![การลบแจ้งเตือน](../images/2023-01-30_14-47-24.gif){loading=lazy}
+
+!!! note
+    [อ่านรายละเอียดเพิ่มเติมได้ที่นี่](https://slack.com/resources/using-slack/how-to-use-reminders-in-slack)
+
