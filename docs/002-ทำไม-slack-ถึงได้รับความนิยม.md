@@ -31,7 +31,7 @@
 
 ### อีกทั้งยังสามารถเชื่อมกับ Application หลายๆตัว
 
-ที่ได้รับความนิยมได้เช่น [Google Drive](https://drive.google.com) [Zoom](https://www.zoom.us) [Google Calendar](https://calendar.google.com)
+ที่ได้รับความนิยมได้เช่น [Google Drive](https://drive.google.com) , [Zoom](https://www.zoom.us) , [Google Calendar](https://calendar.google.com)
 
 ### การจัดการไฟล์จาก [Google Drive](https://drive.google.com)
 ### การประชุมผ่าน [Zoom](https://zoom.us), [Google Meet](https://meet.google.com/?pli=1) หรือ [Microsoft Team](https://www.microsoft.com/th-th/microsoft-teams/group-chat-software)
