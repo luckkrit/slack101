@@ -14,3 +14,4 @@
 ![[011-thread-message-คืออะไร]]
 ![[012-การจัด-format-message]]
 ![[013-reminder-การแจ้งเตือน]]
+![[014-การทำ-poll-ด้วย-simple-poll]]
