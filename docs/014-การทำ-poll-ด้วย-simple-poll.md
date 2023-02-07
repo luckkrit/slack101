@@ -1,0 +1,1 @@
+# 14. การทำ Poll ☑️❌ ด้วย Simple Poll
