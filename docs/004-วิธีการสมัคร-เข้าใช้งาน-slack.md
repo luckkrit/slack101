@@ -8,7 +8,7 @@
 
 ให้ไปที่ [https://slack.com/get-started#/createnew](https://slack.com/get-started#/createnew) 
 
-![การลงชื่อเข้าใช้งาน Slack](2022-12-28_08-35-07.png){loading=lazy}
+![การลงชื่อเข้าใช้งาน Slack](../images/2022-12-28_08-35-07.png){loading=lazy}
 
 >ภาพการลงชื่อเข้าใช้งาน Slack 
 
@@ -19,7 +19,7 @@
 
 ต่อจากนี้จะแนะนำเฉพาะการใช้ Email เพียงอย่างเดียว
 
-![สมัครโดยใช้ Email](2023-01-04_07-41-22.png){loading=lazy}
+![สมัครโดยใช้ Email](../images/2023-01-04_07-41-22.png){loading=lazy}
 
 >สมัครด้วย Email
 

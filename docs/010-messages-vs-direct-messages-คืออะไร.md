@@ -2,7 +2,7 @@
 
 ใน [[001-slack-คืออะไร|Slack]] จะมี [[006-workspace-คืออะไร|Workspace]] และ [[007-channel-คืออะไร|Channel]] โดย Message คือการสร้างข้อความหรือบทสนทนา ซึ่งจะทำได้โดยไปที่ `File ▶️ New Message`
 
-![New Message](2023-01-04_15-03-49.png){loading=lazy}
+![New Message](../images/2023-01-04_15-03-49.png){loading=lazy}
 
 โดยสามารถระบุดังนี้ 
 
