@@ -39,7 +39,9 @@
 12. Sheet.chat จะให้เราตั้งค่าเพิ่มเติม 
 ![setup เพิ่มเติม](../images/14-2-2023_11512_sheet.chat.jpeg){loading=lazy}
 <br/>12.1. ชื่อของ Sheet จะกลายเป็นคำสั่งใน slack
+
 <br/>12.2. ให้เราเลือก channel ที่จะเป็นตัวแจ้งเตือน
+
 <br/>12.3. กด `Save` เพื่อบันทึก
 13. Sheet.chat จะแสดงให้เห็นว่าเรามี Google Sheet ที่ผูกกับ Slack อยู่กี่อัน
 ![sheet ที่ผูกอยู่](../images/2023-02-14_11-31-43.jpg){loading=lazy}
