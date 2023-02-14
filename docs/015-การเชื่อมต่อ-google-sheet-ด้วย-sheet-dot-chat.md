@@ -11,7 +11,7 @@
 
 ![sheet.chat limitation](../images/2023-02-14_11-15-30.png){loading=lazy}
 
-## การใช้งาน Sheet.chat 
+## การติดตั้ง Sheet.chat 
 
 1. ไปที่ [https://sheet.chat/](https://sheet.chat/) แล้วกดปุ่ม `Sign in` 
 ![Sheet.chat](../images/2023-02-10_12-49-42.png){loading=lazy}
@@ -45,3 +45,7 @@
 <br/>12.3. กด `Save` เพื่อบันทึก
 13. Sheet.chat จะแสดงให้เห็นว่าเรามี Google Sheet ที่ผูกกับ Slack อยู่กี่อัน
 ![sheet ที่ผูกอยู่](../images/2023-02-14_11-31-43.jpg){loading=lazy}
+
+## การใช้งาน Sheet.chat
+
+![การใช้งาน sheet.chat](../images/2023-02-14_14-44-29.gif){loading=lazy}
