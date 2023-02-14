@@ -70,6 +70,7 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
+  - glightbox
 
 extra_css:
   - stylesheets/styles.css
