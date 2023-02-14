@@ -2,67 +2,67 @@
 
 ด้วยความสามารถที่หลากหลาย [[001-slack-คืออะไร|Slack]] สามารถเชื่อมต่อกับ Google Sheet ที่เรากำหนดไว้ได้ โดยผ่าน Apps ตัวกลางที่ชื่อว่า [Sheet.chat](https://sheet.chat)
 
-![Sheet.chat](../images/2023-02-14_09-22-59.png)
+![Sheet.chat](../images/2023-02-14_09-22-59.png){loading=lazy}
 
 ## ขีดจำกัดของตัวฟรี
 
 - ข้อมูลใน sheet จะต้องไม่เกิน 200 บรรทัด
 - จำกัดการใช้ Google Sheet แค่ 2 อัน
 
-![sheet.chat limitation](../images/2023-02-14_11-15-30.png)
+![sheet.chat limitation](../images/2023-02-14_11-15-30.png){loading=lazy}
 
 ## การใช้งาน Sheet.chat 
 
 1. ไปที่ [https://sheet.chat/](https://sheet.chat/)
 
-![Sheet.chat](../images/2023-02-10_12-49-42.png)
+![Sheet.chat](../images/2023-02-10_12-49-42.png){loading=lazy}
 
 2. กดปุ่ม `Sign in` 
 
-![Sign in](../images/2023-02-10_12-50-21.png)
+![Sign in](../images/2023-02-10_12-50-21.png){loading=lazy}
 
 3. กดปุ่ม `Allow` เพื่อเชื่อมต่อ Sheet.chat กับ Slack
 
 4. ตัว Sheet.chat จะบอกขั้นตอนในการติดตั้ง 3 ขั้นตอน
 
-![3 steps setup](../images/2023-02-14_10-33-41.png)
+![3 steps setup](../images/2023-02-14_10-33-41.png){loading=lazy}
 
 5. เสร็จแล้วกด `Connect a Google account` เพื่อ Sheet.chat จะทำการเชื่อมต่อกับ Google Sheet ผ่าน Google Account
 
-![Sheet.chat เชื่อมต่อ Google Sheet](../images/2023-02-10_12-51-03.png)
+![Sheet.chat เชื่อมต่อ Google Sheet](../images/2023-02-10_12-51-03.png){loading=lazy}
 
 6. แล้วกด `Allow` ให้ Sheet.chat เพื่อเชื่อมต่อ Google Account โดยบอกเงื่อนไขดังกล่าว
 
-![Allow Google Account](../images/2023-02-14_10-36-46.png)
+![Allow Google Account](../images/2023-02-14_10-36-46.png){loading=lazy}
 
 7. Sheet.chat จะบอกขั้นตอนต่อไป 
 
-![Step 2](../images/2023-02-10_12-51-30.png)
+![Step 2](../images/2023-02-10_12-51-30.png){loading=lazy}
 
 8. กด `Install the Slack app in your workspace` แล้วจะปรากฎดังรูปด่านล่าง
 
-![Allow Sheet.chat](../images/2023-02-10_12-51-46.png)
+![Allow Sheet.chat](../images/2023-02-10_12-51-46.png){loading=lazy}
 
 9. กด `Allow` เพื่ออนุญาติให้ Sheet.chat เชื่อมต่อกับ Slack ได้
 
-![เสร็จสิ้นขั้นตอนเชื่อมต่อ Slack](../images/2023-02-14_10-45-25.png)
+![เสร็จสิ้นขั้นตอนเชื่อมต่อ Slack](../images/2023-02-14_10-45-25.png){loading=lazy}
 
 10. ให้เราเตรียม Google Sheet ขึ้นมา
 
-![เตรียมข้อมูล Google Sheet](../images/2023-02-10_11-18-54.png)
+![เตรียมข้อมูล Google Sheet](../images/2023-02-10_11-18-54.png){loading=lazy}
 
 10.1. ใน Google Sheet ต้องมีบรรทัดแรกเป็นข้อมูลหัวตารางเสมอ โดยจะมีกี่ column ก็ได้
 10.2. ชื่อของ Sheet จะต้องเป็นภาษาอังกฤษ
 
 11. กด `Setup your first sheet` จะปรากฎหน้าจอให้เรากรอกรายละเอียด URL ของ Google Sheet
 
-![กรอก step3](../images/2023-02-10_12-53-05.png)
+![กรอก step3](../images/2023-02-10_12-53-05.png){loading=lazy}
 
 12. กรอก URL ของ Google Sheet แล้วเลือก Sheet ที่เราจะให้ข้อมูลกรอกลงไป แล้วกด `Submit`
 
 13. Sheet.chat จะให้เราตั้งค่าเพิ่มเติม 
 
-![setup เพิ่มเติม](../images/14-2-2023_11512_sheet.chat.jpeg)
+![setup เพิ่มเติม](../images/14-2-2023_11512_sheet.chat.jpeg){loading=lazy}
 
 13.1. ชื่อของ Sheet จะกลายเป็นคำสั่งใน slack
 
@@ -72,5 +72,5 @@
 
 14. Sheet.chat จะแสดงให้เห็นว่าเรามี Google Sheet ที่ผูกกับ Slack อยู่กี่อัน
 
-![sheet ที่ผูกอยู่](../images/2023-02-14_11-31-43.jpg)
+![sheet ที่ผูกอยู่](../images/2023-02-14_11-31-43.jpg){loading=lazy}
 

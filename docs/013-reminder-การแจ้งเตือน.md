@@ -8,7 +8,7 @@
 /remind
 ```
 
-![คำสั่ง remind](https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/remind-command.jpg)
+![คำสั่ง remind](https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/remind-command.jpg){loading=lazy}
 
 ก็จะมีรูปแบบคำสั่งอธิบายขึ้นมา
 

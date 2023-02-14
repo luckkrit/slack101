@@ -6,11 +6,11 @@
 
 1. ให้ไปที่ด้านข้าง จะมีปุ่ม `+ Add apps` 
 
-	![การติดตั้ง](../images/2023-02-07_10-47-41.png)
+	![การติดตั้ง](../images/2023-02-07_10-47-41.png){loading=lazy}
 
 2.  พิมพ์ Simple Poll แล้วกด Enter
 
-![ค้นหา Simple Poll](../images/2023-02-07_10-50-17.gif)
+![ค้นหา Simple Poll](../images/2023-02-07_10-50-17.gif){loading=lazy}
 
 ## การสร้าง Poll
 

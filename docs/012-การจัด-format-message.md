@@ -2,7 +2,7 @@
 
 การจัด Format [[010-messages-vs-direct-messages-คืออะไร|Message]] สามารถทำได้ไม่ยาก ซึ่งประโยชน์จากการจัด Format Message ที่เห็นได้ชัดคือความชัดเจนของข้อความที่เราจะส่ง เน้นสาระสำคัญที่จะสื่อสารออกไปได้
 
-![การจัด Format Message](https://slack.zendesk.com/hc/article_attachments/4414468900627/message-formatting.en-US_2x.gif)
+![การจัด Format Message](https://slack.zendesk.com/hc/article_attachments/4414468900627/message-formatting.en-US_2x.gif){loading=lazy}
 
 > ภาพจาก [Slack](https://slack.com) 
 
