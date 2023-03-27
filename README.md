@@ -21,4 +21,4 @@
 
 ## Contents
 
-สามารถอ่านได้จาก [[index|ที่นี่]]
+สามารถอ่านได้จาก [ที่นี่](https://luckkrit.github.io/slack101/)
